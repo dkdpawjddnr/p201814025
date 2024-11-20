@@ -6,5 +6,6 @@ public static void main(String[] args) {
 System.out.println("201814025 지정욱");
 System.out.println(Hello.sum(10));
 System.out.println(Hello.sum(100));
+System.out.println(Hello.sum(1000));
 }
 }
